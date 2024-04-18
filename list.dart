@@ -5,6 +5,7 @@ void main() {
 
   myList.add(67);
   myList.remove("Jackson");
+  myList.add(10);
   // remove value
   // myList.remove(4);
   print(myList);
